@@ -15,5 +15,4 @@ The command "uvicorn fapi_app:app --reload" refers to:
   - app: the object created inside of fapi_app.py with the line app = FastAPI().
   - --reload: make the server restart after code changes. Only use for development.
   
-To access documentation or to try out API's after executing the above command use the following URL.
-  "http://127.0.0.1:8000/docs"
+To access documentation or to try out API's after executing the above command use http://127.0.0.1:8000/docs
