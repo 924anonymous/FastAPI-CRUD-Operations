@@ -1,0 +1,27 @@
+[
+  {
+    "name": "store-1",
+    "items": [
+      "maggie",
+      "paste",
+      "chocolate",
+      "burger"
+    ]
+  },
+  {
+    "name": "amul",
+    "items": [
+      "chocobar",
+      "kulfi",
+      "family-pack",
+      "cone"
+    ]
+  },
+  {
+    "name": "asus",
+    "items": [
+      "laptop",
+      "PC"
+    ]
+  }
+]
